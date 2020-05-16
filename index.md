@@ -1,3 +1,4 @@
-### 这是一个记录leetcode刷题的repo
-* 每天更新
-
+### 5.16
+* [two-sum](problems/two-sum.md)
+* [add-two-numbers](problems/add-two-numbers.md)
+  
