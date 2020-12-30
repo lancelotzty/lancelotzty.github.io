@@ -6,4 +6,4 @@
 * [median-of-two-sorted-arrays](problems/median-of-two-sorted-arrays)
 * [longest-palindromic-substring](problems/longest-palindromic-substring)
 * [reverse-integer](problems/reverse-integer)
-* 
+* [string-to-integer-atoi](problems/string-to-integer-atoi)
