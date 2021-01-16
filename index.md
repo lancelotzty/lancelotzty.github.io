@@ -1,4 +1,7 @@
 ### problems
+
+* [find_minimum_time_to_finish_all_jobs](problems/find_minimum_time_to_finish_all_jobs.md)
+
 * [two-sum](problems/two-sum.md)
 * [add-two-numbers](problems/add-two-numbers.md)
 * [longest-substring-without-repeating-characters](problems/longest-substring-without-repeating-characters.md)

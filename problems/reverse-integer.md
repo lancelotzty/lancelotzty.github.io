@@ -31,3 +31,6 @@ def reverse(self, x: int) -> int:
       x = x // 10
    return sign * result
 ```
+<br>
+
+[back](../index.md)

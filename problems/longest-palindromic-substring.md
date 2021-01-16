@@ -102,3 +102,6 @@ def longestPalindrome(self, s: str) -> str:
    r = (maxCenter + maxExpansion) // 2
    return s[l:r]
 ```
+<br>
+
+[back](../index.md)

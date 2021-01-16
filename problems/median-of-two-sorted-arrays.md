@@ -142,4 +142,6 @@ def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
             start = mid + 1
    return 0
 ```
+<br>
 
+[back](../index.md)
